@@ -31,8 +31,13 @@
 
 <br>
 
-<!-- Enhanced Coding Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Animation" width="500" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(54, 188, 247, 0.3);"/>
+<!-- Enhanced Coding Animation with Multiple GIFs -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Animation" width="400" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(54, 188, 247, 0.3);"/>
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" alt="Tech Animation" width="200"/>
+<img src="https://user-images.githubusercontent.com/74038190/216649450-5dfdd0ac-10c2-40b3-8f7f-ba71217c5aee.gif" alt="AI Animation" width="200"/>
+</div>
 
 </div>
 
@@ -203,7 +208,7 @@
 
 ---
 
-<!-- GitHub Trophies with Animation -->
+<!-- GitHub Trophies with Better Colors -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50px">
   🏆 GitHub Achievements
@@ -211,12 +216,25 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fahimarefin&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  
+<!-- Animated Trophy Display -->
+<img src="https://user-images.githubusercontent.com/74038190/216649433-8708f88c-93dd-41a0-9dd6-a4b7c1c4f4b6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/216649421-7bb33739-41a4-40f2-ac2c-86b24660d371.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/216649441-4a7d7181-ad15-4706-8494-e52b26db4b96.gif" width="100">
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=fahimarefin&theme=matrix&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Issues,MultipleLang,PullRequest,Reviews,Repositories" alt="GitHub Trophies"/>
+
+<!-- Animated Celebration -->
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/216649497-1951db19-8f3d-4e58-be98-99f35670a53f.gif" width="200">
+
 </div>
 
 ---
 
-<!-- Enhanced GitHub Statistics -->
+<!-- GitHub Statistics with Better Colors -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50px">
   📊 GitHub Analytics
@@ -228,19 +246,24 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fahimarefin&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡%20GitHub%20Stats" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=fahimarefin&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡%20GitHub%20Stats&bg_color=0D1117&title_color=36BCF7&text_color=36BCF7&icon_color=36BCF7" alt="GitHub Stats" />
 </td>
 <td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimarefin&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimarefin&theme=react&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=36BCF7&currStreakNum=36BCF7&sideNums=36BCF7" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimarefin&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&custom_title=🚀%20Most%20Used%20Languages" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimarefin&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&custom_title=🚀%20Most%20Used%20Languages&bg_color=0D1117&title_color=36BCF7&text_color=36BCF7" alt="Top Languages" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fahimarefin&theme=radical&hide_border=true&custom_title=📈%20Contribution%20Activity&area=true&point=FFFFFF" alt="Contribution Graph" />
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fahimarefin&theme=react-dark&hide_border=true&custom_title=📈%20Contribution%20Activity&area=true&point=36BCF7&bg_color=0D1117&color=36BCF7&line=36BCF7" alt="Contribution Graph" />
 
 </div>
 
@@ -324,7 +347,7 @@
 
 ---
 
-<!-- Enhanced Learning Journey -->
+<!-- Enhanced Learning Journey with Animations -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50px">
   📚 Continuous Learning Journey
@@ -336,7 +359,9 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/216649450-5dfdd0ac-10c2-40b3-8f7f-ba71217c5aee.gif" width="100">
 </td>
 <td align="left" width="50%">
 
@@ -358,6 +383,10 @@
 - ✅ Modern JavaScript
 - 📋 React/Next.js Projects
 
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/216649449-c8b0e13f-4a00-4e74-bbca-b6dcebfc5041.gif" width="150">
+
 </td>
 </tr>
 </table>
@@ -366,7 +395,7 @@
 
 ---
 
-<!-- Contact Section -->
+<!-- Contact Section with More Animations -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50px">
   🤝 Let's Connect & Collaborate
@@ -375,7 +404,13 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="300">
+
+<!-- Animated Connection Icons -->
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/216649421-7bb33739-41a4-40f2-ac2c-86b24660d371.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/216649433-8708f88c-93dd-41a0-9dd6-a4b7c1c4f4b6.gif" width="80">
 
 ### 📧 **Ready to build something amazing together?**
 
@@ -392,6 +427,11 @@
 </p>
 
 **💡 Open to exciting opportunities in AI, ML, and innovative tech solutions!**
+
+<br>
+
+<!-- Animated Handshake -->
+<img src="https://user-images.githubusercontent.com/74038190/216649450-5dfdd0ac-10c2-40b3-8f7f-ba71217c5aee.gif" width="150">
 
 </div>
 
