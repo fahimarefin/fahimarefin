@@ -192,23 +192,6 @@ class FahimArefin:
 
 ---
 
-## 🤝 Let's Collaborate
-
-I am open to discussions on **AI/ML systems consulting**, **founding/senior engineering roles**, and **open-source research initiatives**.
-
-<div align="center">
-
-| 💼 Consulting | 🚀 Full-Time Roles | 🧪 Research & Open Source |
-| :---: | :---: | :---: |
-| Architecture advisory, RAG audits, Agentic POCs | Lead AI Engineer, ML Systems Architect | LangChain / Agent tooling contributions |
-
-<br>
-
-<a href="mailto:fahimarefin@email.com"><img src="https://img.shields.io/badge/Get%20in%20Touch-Direct%20Email-00D9FF?style=for-the-badge&logoColor=0F2027&labelColor=0F2027" /></a>
-<a href="https://linkedin.com/in/fahim-arefin"><img src="https://img.shields.io/badge/Connect-LinkedIn-00D9FF?style=for-the-badge&logoColor=0F2027&labelColor=0F2027" /></a>
-
-<br><br>
-
 > *"The best way to predict the future is to invent it."* — Alan Kay
 
 </div>
